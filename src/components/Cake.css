@@ -1,0 +1,26 @@
+button {
+    border-radius: 12px;
+    background-color: #fafafa;
+    color: #7c73e6; 
+    font-weight: bold;   
+}
+
+button:hover {
+    background-color:#ffe9e3 ;
+    color: #7c73e6;  
+}
+
+.cakes {
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    margin: 10px;
+    border: 2px solid #fafafa;
+    border-radius: 12px;
+    background-color: #7c73e6;
+    color: #ffe9e3;
+    padding: 10px; 
+}
+
+
+

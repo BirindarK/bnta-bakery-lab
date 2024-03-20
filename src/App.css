@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  text-align: center;
+  border: 2px solid #ffe9e3;
+  border-radius: 12px;
+  margin: 15px;
+  background-color: #fafafa;
+  color: #7c73e6;
+}
