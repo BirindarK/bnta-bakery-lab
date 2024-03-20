@@ -3,9 +3,6 @@ import React, { useState } from 'react';
 import Cake from '../components/Cake';
 
 const CakeContainer = () => {
-    const [soldVictoriaSponge, setSoldVictoriaSponge] = useState(0);
-    const [soldTeaLoaf, setSoldTeaLoaf] = useState(0);
-    const [soldCarrotCake, setSoldCarrotCake] = useState(0);
 
     const [cakes, setCakes] = useState([
         // Victoria Sponge
